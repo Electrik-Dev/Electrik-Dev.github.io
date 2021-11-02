@@ -14,4 +14,6 @@ As someone who takes privacy very seriously, I will never store any data on you 
 
 ### Support or Contact
 
-I have set up an email alias so you can contact me with either feedback or issues. Because all of these projects are made on my personal time, it may take me a while to email you back but I try to do so as promptly as possible
+I have set up an email alias so you can contact me with either feedback or issues. Because all of these projects are made on my personal time, it may take me a while to email you back but I try to do so as promptly as possible.
+
+Contact me - electrik.dev.2cptj@simplelogin.co
