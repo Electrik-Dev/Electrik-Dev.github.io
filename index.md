@@ -7,7 +7,7 @@ The following are projects that I have built
 
 #### Reddit Promotion Blocker
 this project is intended to block promoted posts on Reddit. Currently found on the chrome web store and hopefully on the firefox store as well.
-[Github Link](https://github.com/Electrik-Dev/RedditPromoBlocker)
+- [Github Link](https://github.com/Electrik-Dev/RedditPromoBlocker)
 
 ### Privacy Policy
 As someone who takes privacy very seriously, I will never store any data on you - personal, anonymous, or in any other capacity. Any persions used by my software are used strictly because they cannot function otherwise.
