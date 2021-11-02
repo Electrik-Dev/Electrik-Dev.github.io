@@ -10,7 +10,7 @@ this project is intended to block promoted posts on Reddit. Currently found on t
 [Github Link](https://github.com/Electrik-Dev/RedditPromoBlocker)
 
 ### Privacy Policy
-As someone who takes privacy very seriously, I will never store any data on you personal, or otherwise. Any persions used by my software are used strictly because they cannot function otherwise.
+As someone who takes privacy very seriously, I will never store any data on you - personal, anonymous, or in any other capacity. Any persions used by my software are used strictly because they cannot function otherwise.
 
 ### Support or Contact
 
